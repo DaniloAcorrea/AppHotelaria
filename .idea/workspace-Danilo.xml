@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="461882f8-bce7-41f2-8b54-a0f131720baa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vEU7f4f2fsNtOmJ97Qs9LBLFa2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CadCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadQuarto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadUsuario.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Danil/OneDrive - SENAC - SP/java/App&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danilo.acorrea\OneDrive - SENAC - SP\java\App\Poo\src\view\resources\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danilo.acorrea\OneDrive - SENAC - SP\java\App\Poo\src\view" />
+      <recent name="C:\Users\danilo.acorrea\OneDrive - SENAC - SP\java\App\Poo\src\view\resources\img" />
+      <recent name="C:\Users\danilo.acorrea\OneDrive - SENAC - SP\java\App\Poo\src\view\resources\fontes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CadLogin">
+    <configuration name="CadCliente" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="view.CadCliente" />
+      <module name="App" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\danilo.acorrea\OneDrive - SENAC - SP\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadLogin" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="MAIN_CLASS_NAME" value="view.CadLogin" />
+      <module name="App" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\danilo.acorrea\OneDrive - SENAC - SP\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadQuarto" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view.CadQuarto" />
+      <module name="App" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\danilo.acorrea\OneDrive - SENAC - SP\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadUsuario" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view.CadUsuario" />
+      <module name="App" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\danilo.acorrea\OneDrive - SENAC - SP\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CadCliente" />
+      <item itemvalue="Application.CadUsuario" />
+      <item itemvalue="Application.CadQuarto" />
+      <item itemvalue="Application.CadLogin" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461882f8-bce7-41f2-8b54-a0f131720baa" name="Changes" comment="" />
+      <created>1743709560785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743709560785</updated>
+      <workItem from="1743709561831" duration="43000" />
+      <workItem from="1743709674739" duration="2220000" />
+      <workItem from="1743785274337" duration="3876000" />
+      <workItem from="1744132095491" duration="803000" />
+      <workItem from="1744132943883" duration="1828000" />
+      <workItem from="1744134792156" duration="7673000" />
+      <workItem from="1744303857527" duration="10092000" />
+      <workItem from="1744390230658" duration="9278000" />
+      <workItem from="1744648908927" duration="4566000" />
+      <workItem from="1744657479203" duration="753000" />
+      <workItem from="1744831383904" duration="3230000" />
+      <workItem from="1745426873324" duration="9919000" />
+      <workItem from="1745521325542" duration="1282000" />
+      <workItem from="1745860991157" duration="3889000" />
+      <workItem from="1745945034020" duration="4591000" />
+      <workItem from="1745958256222" duration="235000" />
+      <workItem from="1746018890208" duration="291000" />
+      <workItem from="1746021323399" duration="636000" />
+      <workItem from="1746065650926" duration="13000" />
+      <workItem from="1746100305132" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
