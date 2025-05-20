@@ -19,7 +19,7 @@ public class Conexao {
         Connection condb = null;
         try {
             //especificar a rota do drive a ser carregada (jdbc para sgbd mysql)
-            class.forName(Driver);
+            Class.forName(Driver);
 
             condb = DriverManager.getConnection(url, user, password);
             return condb;
@@ -28,12 +28,9 @@ public class Conexao {
     por meio do metodo gatConection(ip, porta,
      nome do banco, Usuario, senha)
      */
-            DriverManager.getConnection("jdc:mysql//127.0.0.1:3306/apphotelaria", "dbaHotel", "dbaHotel123");
-        } catch (SQLException erro) {
+        }catch (SQLException | ClassNotFoundException erro) {
             System.out.print("Erro ao conectar ao banco de dados" + erro);
             return null;
-        } catch (ClassNotFoundException e) {
-
         }
 
     }
